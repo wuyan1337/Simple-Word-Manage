@@ -81,11 +81,11 @@ def open_word_file():
 
 # 创建主窗口
 root = tk.Tk()
-root.title("无言天天开心")
+root.title("实例")
 root.geometry("400x400")
 
 # 标题标签
-title_label = tk.Label(root, text="无言天天开心", font=("Arial", 20), pady=10)
+title_label = tk.Label(root, text="实例", font=("Arial", 20), pady=10)
 title_label.pack()
 
 # 词汇数量标签
